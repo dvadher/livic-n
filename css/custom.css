@@ -994,7 +994,7 @@ h5.overlay-text {
 }
 .video-deck:before, .product-featured-img:before {
 	top: -9px;
-    left: -10px;
+    left: -9px !important;
     content: "";
     z-index: -1 !important;
     width: 135px;
